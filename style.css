@@ -1,7 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-}
+  
 button{
     background-color: #eb4d4b;
     margin-top: 200px;
@@ -44,4 +41,15 @@ input{
     color: black;
     border-radius: 30px;
     border: 2px solid aqua;
+}
+
+ul{
+    background-color: tomato;
+    padding: 25px;
+    list-style-position: inside;
+}
+li{
+    background-color: violet;
+    padding: 5px;
+    border-bottom: 2px solid tomato;
 }
