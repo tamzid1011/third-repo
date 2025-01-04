@@ -15,3 +15,21 @@ div{
     background-color: #30336b;
     text-align: center;
 }
+#first{
+    background-color: #f6e58d;
+    margin-top: 20px;
+    text-align: center;
+}
+label{
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+input{
+    padding: 5px 10px;
+    background-color:#ffbe76 ;
+}
+.btn{
+    margin-top: 20px;
+    padding: 7px 25px;
+}
