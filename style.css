@@ -53,3 +53,27 @@ li{
     padding: 5px;
     border-bottom: 2px solid tomato;
 }
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 5px 10px;
+}
+table{
+    width: 100%;
+}
+th{
+    text-align: left;
+    height: 60px;
+    background-color: #e67e22;
+}
+td{
+    background-color: #8e44ad;
+    height: 20px;
+
+}
+tr:hover th,
+tr:hover td{
+    background-color: #1abc9c;
+    border: 2px solid white;
+    outline: black;
+}
